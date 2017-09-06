@@ -1,5 +1,5 @@
-# Investigate-a-dataset-titanic-Project3
-Investigate a Dataset(Project 3 - Machine Learning Foundations Nanodegree)
+
+# Investigate a Dataset(Project 3 - Machine Learning Foundations Nanodegree)
 
 
 ## Dependencies
