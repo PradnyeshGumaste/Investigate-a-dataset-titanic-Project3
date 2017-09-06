@@ -2,7 +2,7 @@
 Investigate a Dataset(Project 3 - Machine Learning Foundations Nanodegree)
 
 
-##Dependencies
+## Dependencies
 NumPy, Pandas, MatPlotlib, Seaborn and Python to analyse a dataset.
 The dataset choosen by me was the Titanic Dataset provided by Kaggle.
 
